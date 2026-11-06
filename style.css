@@ -18,7 +18,7 @@ svg.i{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.6;stro
 nav{display:flex;align-items:center;justify-content:space-between;padding:20px 0}
 .brand{font-weight:700;font-size:20px;display:flex;align-items:center;gap:10px}
 .logo{width:32px;height:32px;border-radius:10px;background:#fff;color:#0a0a0c;display:grid;place-items:center}
-.logo svg{width:17px;height:17px}
+.logo svg{width:20px;height:20px}
 .links{display:flex;gap:26px;font-size:14px;color:#c9c9d4}
 .links a:hover{color:#fff}
 .pill{border:1px solid rgba(255,255,255,.28);padding:9px 18px;border-radius:99px;font-size:14px;font-weight:600;transition:.25s}
@@ -112,7 +112,7 @@ details p{color:var(--mute);margin-top:12px;max-width:60ch;font-size:15px}
 .ft a{color:var(--ftx)}.ft a:hover{text-decoration:underline}
 .ft .fl a,.ft .fb a{color:var(--flk)}
 .crumb{display:flex;align-items:center;gap:12px;padding:20px 0;border-bottom:1px solid var(--fln);margin-bottom:0}
-.crumb .logo{width:24px;height:24px;border-radius:7px;background:#1d1d1f;color:#fff}.crumb .logo svg{width:13px;height:13px}
+.crumb .logo{width:24px;height:24px;border-radius:7px;background:#1d1d1f;color:#fff}.crumb .logo svg{width:15px;height:15px}
 .crumb svg.i{width:16px;height:16px}
 .fgrid{margin-bottom:22px}
 .fs{border-bottom:1px solid var(--fln);padding:0}

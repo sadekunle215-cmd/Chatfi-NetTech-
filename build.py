@@ -126,6 +126,7 @@ T = '''<!DOCTYPE html>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@500;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" href="pages.css">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
 </head>
 <body>
 <header class="hero page-hero">
